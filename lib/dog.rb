@@ -7,3 +7,5 @@ class Dog
 end
 
 fido = Dog.new(fido)
+
+puts fido.breed
